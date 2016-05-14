@@ -1,0 +1,329 @@
+{
+	"folder_history":
+	[
+		"/D/Nodejs/react-starter-kit",
+		"/D/Nodejs/ReactDemos",
+		"/D/VMShare/fromgithub/react-starter-kit",
+		"/D/Nodejs/react-demos",
+		"/D/Nodejs/react-test",
+		"/C/Users/whitney/Desktop/jQueryCalendar",
+		"/D/Nodejs/my-auto-web"
+	],
+	"last_version": 3114,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ba",
+						"background-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Nodejs/react-starter-kit/gulpfile.babel.js",
+					"settings":
+					{
+						"buffer_size": 4026,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<!doctype html>\n<html lang=\"\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"description\"\n        content=\"An Amaze UI React template that helps you build fast, modern mobile web apps.\">\n  <meta name=\"viewport\"\n        content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\">\n  <title>Amaze UI React Starter Kit</title>\n\n  <!-- Set render engine for 360 browser -->\n  <meta name=\"renderer\" content=\"webkit\">\n\n  <!-- No Baidu Siteapp-->\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\" />\n\n  <link rel=\"icon\" type=\"image/png\" href=\"i/favicon.png\">\n\n  <!-- Add to homescreen -->\n  <link rel=\"manifest\" href=\"manifest.json\">\n\n  <!-- Fallback to homescreen for Chrome <39 on Android -->\n  <meta name=\"mobile-web-app-capable\" content=\"yes\">\n  <meta name=\"application-name\" content=\"Web Starter Kit\">\n  <link rel=\"icon\" sizes=\"192x192\" href=\"i/touch/chrome-touch-icon-192x192.png\">\n\n  <!-- Add to homescreen for Safari on iOS -->\n  <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n  <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n  <meta name=\"apple-mobile-web-app-title\"\n        content=\"Amaze UI Starter Kit\">\n  <link rel=\"apple-touch-icon\" href=\"i/touch/apple-touch-icon.png\">\n\n  <!-- Tile icon for Win8 (144x144 + tile color) -->\n  <meta name=\"msapplication-TileImage\"\n        content=\"i/touch/ms-touch-icon-144x144-precomposed.png\">\n  <meta name=\"msapplication-TileColor\" content=\"#0e90d2\">\n\n  <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->\n  <!--\n  <link rel=\"canonical\" href=\"http://www.example.com/\">\n  -->\n  <link rel=\"stylesheet\" href=\"css/amazeui.min.css\" />\n  <link rel=\"stylesheet\" href=\"css/app{{__VERSION__}}.css\">\n  <script src=\"js/app{{__VERSION__}}.js\"></script>\n</head>\n<body>\n<div id=\"root\">\n</div>\n</body>\n</html>\n",
+					"file": "/D/Nodejs/react-starter-kit/app/index.html",
+					"file_size": 2032,
+					"file_write_time": 131076966653439304,
+					"settings":
+					{
+						"buffer_size": 1978,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 560.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Nodejs/react-starter-kit",
+				"/D/Nodejs/react-starter-kit/app"
+			],
+			"file_history":
+			[
+				"/C/Users/whitney/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/D/Nodejs/react-starter-kit/app/demo.html",
+				"/C/Users/whitney/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/whitney/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/whitney/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/Nodejs/ReactDemos/test.html",
+				"/D/Nodejs/starter-kit/app/index.html",
+				"/D/Nodejs/my-auto-web/gulpfile_all.js",
+				"/D/Nodejs/react-starter-kit/gulpfile.babel.js",
+				"/D/Nodejs/react-starter-kit/LICENSE",
+				"/C/Users/whitney/Desktop/交互动画/index.html",
+				"/C/Users/whitney/Desktop/haiwai.html",
+				"/D/Nodejs/my-auto-web/gulpfile.js",
+				"/D/Nodejs/ReactDemos/clock.html",
+				"/D/Nodejs/ReactDemos/js/comments.js",
+				"/D/Nodejs/ReactDemos/comments.html",
+				"/D/Nodejs/ReactDemos/gulpfile.js",
+				"/D/Nodejs/ReactDemos/js/bundle.js",
+				"/D/Nodejs/ReactDemos/bower.json",
+				"/D/VMShare/fromgithub/react-starter-kit/gulpfile.babel.js",
+				"/D/VMShare/fromgithub/react-starter-kit/app/index.html",
+				"/D/VMShare/fromgithub/react-starter-kit/app/js/pages/Index.js",
+				"/D/Nodejs/react-test/app/js/app.js",
+				"/D/applications/youtube-dl.exe",
+				"/C/Users/whitney/Desktop/hr_notice.sql",
+				"/C/Users/whitney/Desktop/jQueryCalendar/index.html",
+				"/D/Nodejs/my-auto-web/views/index.jade",
+				"/D/Nodejs/my-auto-web/index.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/whitney/Desktop/chanpin100.html",
+				"/D/wamp/www/sxs_v2/trunk/Code/sxs/sxs_v1.1/protected/views/topic/chanpin100.php"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"stream",
+					"      \"src\": \"i/touch/apple-touch-icon.png\",\n      \"sizes\": \"152x152\"",
+					"./",
+					"<?php echo $this->getBasePath().\"/topic/$name\"; ?>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\Nodejs\\react-starter-kit"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Nodejs/react-starter-kit/gulpfile.babel.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										735,
+										829
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 345.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Nodejs/react-starter-kit/app/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1978,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1954,
+										1954
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1012.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,812,416,104,1521",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
